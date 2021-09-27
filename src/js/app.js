@@ -1,4 +1,4 @@
 // TODO: write your code here
-import { Settings } from './settings.js';
+import { Settings } from "./settings.js";
 
 export { Settings };
